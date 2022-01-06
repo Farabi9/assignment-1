@@ -71,3 +71,15 @@ h2{
     color: white;
    
 }
+#prog{
+text-align: center;
+}
+#image-border {
+    border-radius:5px ;
+    box-shadow: 10px 10px 30px lightblue;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.blue{
+    color: blue;
+}
