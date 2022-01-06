@@ -63,3 +63,11 @@ a{
 h2{
     font-size: 35px;
 }
+#footer{
+    text-align: center;
+    background-color: black;
+}
+.white{
+    color: white;
+   
+}
